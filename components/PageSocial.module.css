@@ -14,7 +14,7 @@
   width: 3.5em;
   height: 3.5em;
   margin: 0 0 1em;
-  display: flex;
+  display: hidden;
   flex-direction: column;
   justify-content: center;
   align-items: center;
