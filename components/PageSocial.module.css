@@ -14,7 +14,7 @@
   width: 3.5em;
   height: 3.5em;
   margin: 0 0 1em;
-  display: hidden;
+  display: none;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -34,7 +34,7 @@
   right: 0;
   bottom: 0;
 
-  display: hidden;
+  display: none;
   flex-direction: column;
   justify-content: center;
   align-items: center;
