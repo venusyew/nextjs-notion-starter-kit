@@ -34,7 +34,7 @@
   right: 0;
   bottom: 0;
 
-  display: flex;
+  display: hidden;
   flex-direction: column;
   justify-content: center;
   align-items: center;
