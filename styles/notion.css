@@ -70,6 +70,13 @@
   font-size: 14px;
 }
 
+.notion-collection {
+   -webkit-align-self: center;
+   align-self: center;
+   min-width: 100%;
+   max-width: 100%;
+}
+
 .notion-collection-card {
   border-radius: 16px;
   box-shadow: none;
